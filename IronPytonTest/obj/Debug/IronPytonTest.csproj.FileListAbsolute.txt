@@ -1,0 +1,8 @@
+D:\Github\IronPytonTest\IronPytonTest\bin\Debug\IronPytonTest.exe
+D:\Github\IronPytonTest\IronPytonTest\bin\Debug\IronPytonTest.pdb
+D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.csprojResolveAssemblyReference.cache
+D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.exe
+D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.pdb
+D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.MainForm.resources
+D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.csproj.GenerateResource.Cache
+D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.pytest.resources
