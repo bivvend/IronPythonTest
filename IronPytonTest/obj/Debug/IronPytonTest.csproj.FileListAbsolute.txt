@@ -6,3 +6,12 @@ D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.pdb
 D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.MainForm.resources
 D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.csproj.GenerateResource.Cache
 D:\Github\IronPytonTest\IronPytonTest\obj\Debug\IronPytonTest.pytest.resources
+C:\github\IronPythonTest\IronPytonTest\bin\Debug\IronPytonTest.exe
+C:\github\IronPythonTest\IronPytonTest\bin\Debug\IronPytonTest.pdb
+C:\github\IronPythonTest\IronPytonTest\obj\Debug\ResolveAssemblyReference.cache
+C:\github\IronPythonTest\IronPytonTest\obj\Debug\IronPytonTest.MainForm.resources
+C:\github\IronPythonTest\IronPytonTest\obj\Debug\IronPytonTest.pytest.resources
+C:\github\IronPythonTest\IronPytonTest\obj\Debug\GenerateResource.read.1.tlog
+C:\github\IronPythonTest\IronPytonTest\obj\Debug\GenerateResource.write.1.tlog
+C:\github\IronPythonTest\IronPytonTest\obj\Debug\IronPytonTest.exe
+C:\github\IronPythonTest\IronPytonTest\obj\Debug\IronPytonTest.pdb

@@ -44,7 +44,7 @@ namespace IronPytonTest
 		{
 			try
             {
-				ScriptSource source = m_engine.CreateScriptSourceFromFile(@"D:\Github\IronPytonTest\IronPytonTest\pytest.py");
+				ScriptSource source = m_engine.CreateScriptSourceFromFile(@"c:\github\IronPythonTest\IronPytonTest\pytest.py");
          		CompiledCode compiled = source.Compile();
     		    // Executes in the scope of Python
     			compiled.Execute(m_scope); 
